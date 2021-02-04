@@ -4,6 +4,7 @@
 
 - Introduction
 - Prerequisites
+- Rebranding
 - Installing the payment module
 - License
 
@@ -20,6 +21,10 @@ This Ubercart module provides an easy method to integrate with the payment gatew
     - SSL **NB: HTTPS is expected to be in place as the payment gateway will respond over SSL when redirecting the user's browser. Failure to provide an environment where HTTPS traffic is possible, will result in the 3DSv2 payment flow failing***
 
 > Please note that we can only offer support for the Module itself. While every effort has been made to ensure the payment module is complete and bug free, we cannot guarentee normal functionality if unsupported changes are made.
+
+# Rebranding
+
+All Ubercart settings can be configured in the admin pages and thus this module is unbranded by default.
 
 # Installing and configuring the module
 
